@@ -1,4 +1,7 @@
-to run  src/DemoForBswabe.java you have to add these to building path jpbc/jars/sources/jpbc-api-1.2.1-sources.jar jpbc/jars/sources/jpbc-plaf-1.2.1-sources.jar AND modify 5. line and add that directory(you have to create it) file called input.pdf
+This is just bundled version of this: https://github.com/wakemecn/cpabe and this: http://gas.dia.unisa.it/projects/jpbc/index.html
+
+
+To run  src/DemoForCpabe.java you have to add these to building path jpbc/jars/sources/jpbc-api-1.2.1-sources.jar jpbc/jars/sources/jpbc-plaf-1.2.1-sources.jar AND modify 5. line and add that directory(you have to create it) file called input.pdf
 
 
 
